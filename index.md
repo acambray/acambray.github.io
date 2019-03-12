@@ -16,7 +16,7 @@ Will graduate Sep 2019 - Currently First Class Honours
 \- Reinforcement Learning  
 
 ### Masters in Robotics and Intelligent Systems <br> University of Bristol
-Graduated with Distinction on Sept 2018  
+Graduated with Distinction on Sep 2018  
 Overall Best Student Award (Graduated top of my cohort)
 
 #### Research Projects:
