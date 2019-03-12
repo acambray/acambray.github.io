@@ -16,10 +16,11 @@ First Class Honours
 \- Reinforcement Learning  
 
 ### Masters in Robotics and Intelligent Systems [Sep 2018] <br> University of Bristol
-First Class Honours - 85% - Overall Best Student Award (Graduated top of my cohort)
+Graduated with Distinction   
+Overall Best Student Award (Graduated top of my cohort)
 
 ##### Research Projects:  
-
+\- Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with Prof. W. Mayol-Cuevas)
 
 ##### Relevant Modules:  
 \- Statistical Pattern Recognition  
