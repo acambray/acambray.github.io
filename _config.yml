@@ -1,9 +1,8 @@
 title : simple site
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Aleix Cambray
+  email : ac7914@imperial.ac.uk
+  github : acambray
   feedburner : nil
 
 theme: jekyll-theme-cayman
