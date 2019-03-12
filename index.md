@@ -1,3 +1,7 @@
+---
+title: Aleix Cambray
+---
+
 # Education
 ### Masters in Computer Science (Machine Learning and Statistical Inference) <br>Imperial College London
 Will graduate Sep 2019 - Currently First Class Honours
