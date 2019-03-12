@@ -31,10 +31,10 @@ Overall Best Student Award (Graduated top of my cohort)
 \- Uncertainty Modelling for Intelligent Systems  
 
 
-## Project Experience
+# Project Experience
 To fill out
 
-## Technical Skills
+# Technical Skills
 
  * Languages: Python, C, C++, MATLAB, SQL
  * Technologies: Tensorflow, Keras, PyTorch, Microsoft Azure 
