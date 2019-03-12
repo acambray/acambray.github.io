@@ -1,5 +1,5 @@
 ---
-title: Aleix Cambray'
+title: Aleix Cambray
 ---
 
 # Education
