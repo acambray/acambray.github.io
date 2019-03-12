@@ -31,8 +31,5 @@ Overall Best Student Award (Graduated top of my cohort)
 \- Uncertainty Modelling for Intelligent Systems  
 
 
-I graduated from Cambridge University in 2009 having studied Mathematics with a particular focus on statistics. Between then and my masters I worked for seven years in a wide variety of technical and business roles in industries from manufacturing, electronics to energy supply.
-
-
 ## Project Experience
 To fill out
