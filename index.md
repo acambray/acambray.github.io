@@ -1,6 +1,6 @@
 # Education
-### Masters in Computer Science (Machine Learning and Statistical Inference)  [Sep 2019] <br>Imperial College London
-First Class Honours
+### Masters in Computer Science (Machine Learning and Statistical Inference) <br>Imperial College London
+Will graduate Sep 2019 - Currently First Class Honours
 #### Research Projects:  
 * Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  
 * Attention Models, CNNs and LSTMs for Automatic Image-captioning and Machine Translation (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
@@ -15,8 +15,8 @@ First Class Honours
 \- Probabilistic and Bayesian Inference  
 \- Reinforcement Learning  
 
-### Masters in Robotics and Intelligent Systems [Sep 2018] <br> University of Bristol
-Graduated with Distinction   
+### Masters in Robotics and Intelligent Systems <br> University of Bristol
+Graduated with Distinction [Sep 2018]   
 Overall Best Student Award (Graduated top of my cohort)
 
 #### Research Projects:  
