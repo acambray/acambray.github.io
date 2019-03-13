@@ -29,7 +29,7 @@ Overall Best Student Award (Graduated top of my cohort)
 #### Relevant Modules:  
 \- Statistical Pattern Recognition  
 \- Intro to Artificial Intelligence  
-\- Bio-Inspired Artificial Intelligence
+\- Bio-Inspired Artificial Intelligence  
 \- Image Processing and Computer Vision  
 \- Intelligent Adaptive Systems  
 \- Robotics Systems  
