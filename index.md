@@ -12,7 +12,7 @@ Will graduate Sep 2019 - Currently First Class Honours
 #### Relevant Modules:
 \- Mathematics for Machine Learning  
 \- Probabilistic and Bayesian Inference  
-\- Deep Learning (CNNs, Generative Models (VAE, GANs), RNNs and Graph Networks)  
+\- Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
 \- Computer Vision  
 \- Machine Learning for Imaging  
 \- Natural Language Processing  
@@ -42,7 +42,7 @@ Overall Best Student Award (Graduated top of my cohort)
 | ------------- | ------------- |
 | Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  | PyTorch  |
 | Automatic Image-captioning and Machine Translation with attention CNNs and LSTMs (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))  | PyTorch  |
-| Body Pose Estimation (Quadruped) with Fully Convolutional Networks | TensorFlow |
+| Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with [Prof. W. Mayol-Cuevas](https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=en)) | TensorFlow |
 | Histopathological Cancer Detection with CNNs | Keras-TF |
 | Twitter Offensive Language Detection with 2-branch biLSTM and biGRU | Keras-TF |
 | Brain 3D MRI Segmentation for patient age regression | PyTorch & Azure |
@@ -52,8 +52,8 @@ Overall Best Student Award (Graduated top of my cohort)
 | Principal Component Analysis and Linear Discriminant Analysis | Python |
 | Gaussian Processes for Regression | Python |
 | Mean-field Variational Inference | PyTorch |
-| Variational AutoEncoder | PyTorch |
-| Deep Convolutional GANs | PyTorch |
+| VAEs: Variational Autoencoders | PyTorch |
+| GANs & DCGANs: Deep Convolutional Generative Adversarial Networks | PyTorch |
 | Bidirectional LSTMs and GRUs for Google's speech recognition commands | PyTorch |
 | Decision Trees. ID3 and pruning implementation | Python |
 | RL - Markov Decision Processes and Q-Learning | Python |
