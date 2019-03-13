@@ -51,10 +51,10 @@ Overall Best Student Award (Graduated top of my cohort)
 | ------------- | ------------- |
 | Principal Component Analysis and Linear Discriminant Analysis | Python |
 | Gaussian Processes for Regression | Python |
-| Mean-field Variational Inference | Python |
-| Variational AutoEncoder | Python |
-| Deep Convolutional GANs | Python |
-| Bidirectional LSTMs and GRUs for Google's speech recognition commands | Python |
+| Mean-field Variational Inference | PyTorch |
+| Variational AutoEncoder | PyTorch |
+| Deep Convolutional GANs | PyTorch |
+| Bidirectional LSTMs and GRUs for Google's speech recognition commands | PyTorch |
 | Decision Trees. ID3 and pruning implementation | Python |
 | RL - Markov Decision Processes and Q-Learning | Python |
 | Optimisation - Convexity proof and minimisation of negative log likelihood for MNIST | Python |
