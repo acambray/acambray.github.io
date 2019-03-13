@@ -5,3 +5,6 @@ author :
   email : ac7914@imperial.ac.uk
   github : acambray
   feedburner : nil
+
+plugins:
+  - jekyll-seo-tag
