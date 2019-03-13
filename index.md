@@ -36,6 +36,17 @@ Overall Best Student Award (Graduated top of my cohort)
 
 
 # Project Experience
+
+| Project       | Technology |
+| ------------- | ------------- |
+| Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  | PyTorch  |
+| Automatic Image-captioning and Machine Translation with attention CNNs and LSTMs (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))  | PyTorch  |
+| Body Pose Estimation (Quadruped) with Fully Convolutional Networks | TensorFlow |
+| Histopathological Cancer Detection with CNNs | Keras-TF |
+| Twitter Offensive Language Detection with 2-branch biLSTM and biGRU | Keras-TF |
+
+
+
 * Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge) 
 * Automatic Image-captioning and Machine Translation with attention CNNs and LSTMs (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
 * Body Pose Estimation (Quadruped) with Fully Convolutional Networks
