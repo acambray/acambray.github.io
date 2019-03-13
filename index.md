@@ -36,7 +36,11 @@ Overall Best Student Award (Graduated top of my cohort)
 
 
 # Project Experience
-To fill out
+* Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge) 
+* Automatic Image-captioning and Machine Translation with attention CNNs and LSTMs (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
+* Body Pose Estimation (Quadruped) with Fully Convolutional Networks
+* Histopathological Cancer Detection with CNNs
+* Twitter Offensive Language Detection with 2-branch biLSTM and biGRU
 
 # Technical Skills
 
