@@ -8,3 +8,5 @@ author :
 
 plugins:
   - jekyll-seo-tag
+
+google_analytics: UA-136520428-1
