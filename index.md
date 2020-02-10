@@ -4,7 +4,7 @@ title: Aleix Cambray
 
 # Education
 ### Masters in Computer Science (Machine Learning and Statistical Inference) <br>Imperial College London
-Graduating Sep 2019 - Currently First Class Honours
+Present - First Class (Distinction)
 #### Research Projects:
 * Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  
 * Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
