@@ -8,30 +8,59 @@ Present - First Class (Distinction)
 
 <details open>
 <summary><b>Research Projects</b></summary>
+<ul>
+<li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and Samsung AI, Cambridge)  </li>
+<li> Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with <a href="https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en">Prof. Lucia Specia</a>)</li>
+</ul>
 
-+ Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  
-+ Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
-
-</details>
-
+</details><br>
 
 <details>
 <summary><b>Relevant Modules</b></summary>
 
-+ Mathematics for Machine Learning  
-+ Probabilistic and Bayesian Inference  
-+ Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
-+ Computer Vision  
-+ Machine Learning for Imaging  
-+ Natural Language Processing  
-+ Computational Optimisation  
-+ Reinforcement Learning
+<ul>
+ <li>Mathematics for Machine Learning  </li>
+ <li>Probabilistic and Bayesian Inference</li>
+ <li>Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)</li>
+ <li>Computer Vision</li>
+ <li>Machine Learning for Imaging</li>
+ <li>Natural Language Processing</li>
+ <li>Computational Optimisation</li>
+ <li>Reinforcement Learning</li>
+</ul>
 
-</details>
+</details><br>
+
+
 
 ### Masters in Robotics and Intelligent Systems <br> University of Bristol
 Graduated with Distinction on Sep 2018  
 Overall Best Student Award (Graduated top of my cohort)
+
+<details open>
+<summary><b>Research Projects</b></summary>
+<ul>
+ <li>Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with <a href="https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=enn">Prof. W. Mayol-Cuevas</a>)</li>
+</ul>
+
+</details><br>
+
+<details>
+<summary><b>Relevant Modules</b></summary>
+
+<ul>
+ <li>Mathematics for Machine Learning  </li>
+ <li>Probabilistic and Bayesian Inference</li>
+ <li>Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)</li>
+ <li>Computer Vision</li>
+ <li>Machine Learning for Imaging</li>
+ <li>Natural Language Processing</li>
+ <li>Computational Optimisation</li>
+ <li>Reinforcement Learning</li>
+</ul>
+
+</details><br>
+
 
 #### Research Projects:
 * Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with [Prof. W. Mayol-Cuevas](https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=en))
