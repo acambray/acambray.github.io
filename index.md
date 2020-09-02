@@ -8,10 +8,9 @@ Present - First Class (Distinction)
 
 <details open>
 <summary><b>Research Projects</b></summary>
-<br>
 
-* Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  
-* Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
++ Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  
++ Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
 
 </details>
 
@@ -19,14 +18,14 @@ Present - First Class (Distinction)
 <details>
 <summary><b>Relevant Modules</b></summary>
 
-* Mathematics for Machine Learning  
-* Probabilistic and Bayesian Inference  
-* Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
-* Computer Vision  
-* Machine Learning for Imaging  
-* Natural Language Processing  
-* Computational Optimisation  
-* Reinforcement Learning
++ Mathematics for Machine Learning  
++ Probabilistic and Bayesian Inference  
++ Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
++ Computer Vision  
++ Machine Learning for Imaging  
++ Natural Language Processing  
++ Computational Optimisation  
++ Reinforcement Learning
 
 </details>
 
