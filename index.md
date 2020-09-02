@@ -7,7 +7,7 @@ title: Aleix Cambray
 Present - First Class (Distinction)
 
 <details open>
-<summary><b><span style="color:red">Repsearch Projects</span></b></summary>
+<summary><b><span style="color:black">Repsearch Projects</span></b></summary>
 <br>
 <ul>
 <li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and Samsung AI, Cambridge)  </li>
@@ -17,7 +17,7 @@ Present - First Class (Distinction)
 </details>
 
 <details>
-<summary><b>Relevant Modules</b></summary>
+<summary><b><span style="color:black">Relevant Modules</span></b></summary>
 
 <ul>
  <li>Mathematics for Machine Learning  </li>
@@ -39,7 +39,7 @@ Graduated with Distinction on Sep 2018
 Overall Best Student Award (Graduated top of my cohort)
 
 <details open>
-<summary><b>Research Projects</b></summary>
+<summary><b><span style="color:black">Research Projects</span></b></summary>
 <br>
 <ul>
  <li>Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with <a href="https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=enn">Prof. W. Mayol-Cuevas</a>)</li>
@@ -48,33 +48,19 @@ Overall Best Student Award (Graduated top of my cohort)
 </details>
 
 <details>
-<summary><b>Relevant Modules</b></summary>
+<summary><b><span style="color:black">Relevant Modules</span></b></summary>
 
 <ul>
- <li>Mathematics for Machine Learning  </li>
- <li>Probabilistic and Bayesian Inference</li>
- <li>Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)</li>
- <li>Computer Vision</li>
- <li>Machine Learning for Imaging</li>
- <li>Natural Language Processing</li>
- <li>Computational Optimisation</li>
- <li>Reinforcement Learning</li>
+ <li>Statistical Pattern Recognition  </li>
+ <li>Intro to Artificial Intelligence</li>
+ <li>Bio-Inspired Artificial Intelligence</li>
+ <li>Image Processing and Computer Vision</li>
+ <li>Intelligent Adaptive Systems</li>
+ <li>Robotics Systems</li>
+ <li>Uncertainty Modelling for Intelligent Systems</li>
 </ul>
 
 </details><br>
-
-
-#### Research Projects:
-* Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with [Prof. W. Mayol-Cuevas](https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=en))
-
-#### Relevant Modules:  
-\- Statistical Pattern Recognition  
-\- Intro to Artificial Intelligence  
-\- Bio-Inspired Artificial Intelligence  
-\- Image Processing and Computer Vision  
-\- Intelligent Adaptive Systems  
-\- Robotics Systems  
-\- Uncertainty Modelling for Intelligent Systems  
 
 
 # Project Experience
