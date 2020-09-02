@@ -13,7 +13,7 @@ Present - First Class (Distinction)
 <li> Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with <a href="https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en">Prof. Lucia Specia</a>)</li>
 </ul>
 
-</details><br>
+</details>
 
 <details>
 <summary><b>Relevant Modules</b></summary>
@@ -43,7 +43,7 @@ Overall Best Student Award (Graduated top of my cohort)
  <li>Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with <a href="https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=enn">Prof. W. Mayol-Cuevas</a>)</li>
 </ul>
 
-</details><br>
+</details>
 
 <details>
 <summary><b>Relevant Modules</b></summary>
