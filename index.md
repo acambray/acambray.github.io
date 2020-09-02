@@ -7,7 +7,7 @@ title: Aleix Cambray
 Present - First Class (Distinction)
 
 <details open>
-<summary><b><span style="color:black">Research Projects</span></b></summary>
+<summary><b><span style="color:#5e5e5e">Research Projects</span></b></summary>
 <br>
 <ul>
 <li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and Samsung AI, Cambridge)  </li>
@@ -17,7 +17,7 @@ Present - First Class (Distinction)
 </details>
 
 <details>
-<summary><b><span style="color:black">Relevant Modules</span></b></summary>
+<summary><b><span style="color:#5e5e5e">Relevant Modules</span></b></summary>
 
 <ul>
  <li>Mathematics for Machine Learning  </li>
@@ -39,7 +39,7 @@ Graduated with Distinction on Sep 2018
 Overall Best Student Award (Graduated top of my cohort)
 
 <details open>
-<summary><b><span style="color:black">Research Projects</span></b></summary>
+<summary><b><span style="color:#5e5e5e">Research Projects</span></b></summary>
 <br>
 <ul>
  <li>Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with <a href="https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=enn">Prof. W. Mayol-Cuevas</a>)</li>
@@ -48,7 +48,7 @@ Overall Best Student Award (Graduated top of my cohort)
 </details>
 
 <details>
-<summary><b><span style="color:black">Relevant Modules</span></b></summary>
+<summary><b><span style="color:#5e5e5e">Relevant Modules</span></b></summary>
 
 <ul>
  <li>Statistical Pattern Recognition  </li>
