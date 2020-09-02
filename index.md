@@ -7,7 +7,7 @@ title: Aleix Cambray
 Present - First Class (Distinction)
 
 <details open>
-<p style="color:black"><summary><b>Research Projects</b></summary></p>
+<p style="color:black"><summary><b>Reseparch Projects</b></summary></p>
 <ul>
 <li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and Samsung AI, Cambridge)  </li>
 <li> Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with <a href="https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en">Prof. Lucia Specia</a>)</li>
