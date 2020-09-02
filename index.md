@@ -3,6 +3,7 @@ title: Aleix Cambray
 ---
 
 # Education
+---
 ### Masters in Computer Science (Machine Learning and Statistical Inference) <br>Imperial College London
 Present - First Class (Distinction)
 
@@ -64,6 +65,7 @@ Overall Best Student Award (Graduated top of my cohort)
 
 
 # Project Experience
+---
 
 | Project       | Technology |
 | ------------- | ------------- |
@@ -96,10 +98,12 @@ Overall Best Student Award (Graduated top of my cohort)
 -->
 
 # Technical Skills
+---
 Languages: Python, C, C++, MATLAB, SQL  
 Technologies: Tensorflow, Keras, PyTorch, Microsoft Azure, scikit-learn, Pandas, OpenCV, Pillow
  
 # Languages
+---
 English: Proficient  
 Spanish: Native  
 Catalan: Native  
