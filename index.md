@@ -5,46 +5,30 @@ title: Aleix Cambray
 # Education
 ### Masters in Computer Science (Machine Learning and Statistical Inference) <br>Imperial College London
 Present - First Class (Distinction)
-#### Research Projects:
+
+<details open>
+<summary><b>Research Projects</b></summary>
+<br>
+
 * Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  
 * Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
 
-
-<details>
-<summary>#### Relevant Modules</summary>
-<br>
-\- Mathematics for Machine Learning  
-\- Probabilistic and Bayesian Inference  
-\- Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
-\- Computer Vision  
-\- Machine Learning for Imaging  
-\- Natural Language Processing  
-\- Computational Optimisation  
-\- Reinforcement Learning  
 </details>
 
-<details>
-<summary>Relevant Modules</summary>
-<br>
-\- Mathematics for Machine Learning  
-\- Probabilistic and Bayesian Inference  
-\- Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
-\- Computer Vision  
-\- Machine Learning for Imaging  
-\- Natural Language Processing  
-\- Computational Optimisation  
-\- Reinforcement Learning  
-</details>
 
-#### Relevant Modules:
-\- Mathematics for Machine Learning  
-\- Probabilistic and Bayesian Inference  
-\- Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
-\- Computer Vision  
-\- Machine Learning for Imaging  
-\- Natural Language Processing  
-\- Computational Optimisation  
-\- Reinforcement Learning  
+<details>
+<summary><b>Relevant Modules</b></summary>
+
+* Mathematics for Machine Learning  
+* Probabilistic and Bayesian Inference  
+* Deep Learning (CNNs, Generative Models, RNNs and Graph Networks)  
+* Computer Vision  
+* Machine Learning for Imaging  
+* Natural Language Processing  
+* Computational Optimisation  
+* Reinforcement Learning
+
+</details>
 
 ### Masters in Robotics and Intelligent Systems <br> University of Bristol
 Graduated with Distinction on Sep 2018  
