@@ -7,7 +7,7 @@ title: Aleix Cambray
 Present - First Class (Distinction)
 
 <details open>
-<p style="color:black"><summary><b>Reseparch Projects</b></summary></p>
+<summary><b><span style="color:red">Repsearch Projects</span></b></summary>
 <br>
 <ul>
 <li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and Samsung AI, Cambridge)  </li>
