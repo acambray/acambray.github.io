@@ -5,14 +5,13 @@ title: Aleix Cambray
 # Education
 ---
 ### Masters in Computer Science (Machine Learning and Statistical Inference) <br>Imperial College London
-Graduated with First Class Honours (Distinction) on Oct 2020  
-Distinction awarded for Research Project
+Graduated with First Class Honours (Distinction) on 2020
 
 <details open>
 <summary><b><span style="color:#5e5e5e">Research Projects</span></b></summary>
 <br>
 <ul>
-<li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and Samsung AI, Cambridge)  </li>
+<li> Facial Expression and Emotion Recognition (with <a href="https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en">Prof. Maja Pantic</a> and <a href="https://scholar.google.co.uk/citations?user=6v-UKEMAAAAJ&hl=en">Dr. Stavros Petridis</a>)  </li>
 <li> Attention Models, CNNs and Encoder-Decoder LSTMs for Automatic Image-captioning and Machine Translation (with <a href="https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en">Prof. Lucia Specia</a>)</li>
 </ul>
 
@@ -70,7 +69,7 @@ Overall Best Student Award (Graduated top of my cohort)
 
 | Project       | Technology |
 | ------------- | ------------- |
-| Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge)  | PyTorch  |
+| Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and <a href="https://scholar.google.co.uk/citations?user=6v-UKEMAAAAJ&hl=en">Dr. Stavros Petridis</a>)  | PyTorch  |
 | Automatic Image-captioning and Machine Translation with attention CNNs and LSTMs (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))  | PyTorch  |
 | Body Pose Estimation (Quadruped) with Fully Convolutional Networks (with [Prof. W. Mayol-Cuevas](https://scholar.google.co.uk/citations?user=wzdFhjUAAAAJ&hl=en)) | TensorFlow |
 | Histopathological Cancer Detection with CNNs | Keras-TF |
@@ -91,7 +90,7 @@ Overall Best Student Award (Graduated top of my cohort)
 
 
 <!--
-* Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and Samsung AI, Cambridge) 
+* Facial Expression and Emotion Recognition (with [Prof. Maja Pantic](https://scholar.google.com/citations?user=ygpxbK8AAAAJ&hl=en) and <a href="https://scholar.google.co.uk/citations?user=6v-UKEMAAAAJ&hl=en">Dr. Stavros Petridis</a>) 
 * Automatic Image-captioning and Machine Translation with attention CNNs and LSTMs (with [Prof. Lucia Specia](https://scholar.google.co.uk/citations?user=wVl_z8kAAAAJ&hl=en))
 * Body Pose Estimation (Quadruped) with Fully Convolutional Networks
 * Histopathological Cancer Detection with CNNs
